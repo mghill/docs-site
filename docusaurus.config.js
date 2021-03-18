@@ -14,6 +14,9 @@ module.exports = {
         darkIcon: '●',
         lightIcon: '●',
       },
+    prism: {
+      additionalLanguages: ['crystal'],
+      },
     },
     image: 'img/meta.png',
     announcementBar: {
